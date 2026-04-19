@@ -85,13 +85,6 @@ streamlit run app.py
 * model (.pkl)
 
 ---
-
-## 📄 Project Report
-
-[Download PDF](customer_segmentation_images.pdf)
-
----
-
 ## 👨‍💻 Author
 
 Ankit Kumar
